@@ -1,0 +1,35 @@
+commit 73ae1708151c21e56b483939e1b6018e9f458b46 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: kristinamarkoska <markoskakristina2@gmail.com>
+Date:   Sun Mar 31 23:15:50 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 8c5275bab0905f3dce923989dce9b1df219036c6
+Author: kristinamarkoska <markoskakristina2@gmail.com>
+Date:   Sun Mar 31 22:58:27 2024 +0200
+
+    Fix wrong condition
+
+commit 32ccd14ba7c6b6ab9e5b825f5abfa4c4062ac839 (origin/bug1, bug1)
+Author: kristinamarkoska <markoskakristina2@gmail.com>
+Date:   Sun Mar 31 23:12:07 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 41951bd5533f07fbd61a4d0b8e84cef9c3f22133
+Author: kristinamarkoska <markoskakristina2@gmail.com>
+Date:   Sun Mar 31 22:52:57 2024 +0200
+
+    Fix wrong condition
+
+commit c819108d588c3eb3cc6c73324159061543ec5105
+Author: kristinamarkoska <markoskakristina2@gmail.com>
+Date:   Sun Mar 31 22:32:27 2024 +0200
+
+    Add started code
+
+commit b324fc1030e34edd6ff32dabd3ed9615c1a03eb5
+Author: kristinamarkoska <markoskakristina2@gmail.com>
+Date:   Sun Mar 31 22:31:25 2024 +0200
+
+    Initial commit
